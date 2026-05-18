@@ -18,7 +18,7 @@ This tool uses [merik's](https://github.com/szaaamerik) [memory.dll library](htt
 The result from the scans is then used to create detours to power the features within the tool.
 
 ## Images
-<img src="[images/quantummc+.png](https://cdn.discordapp.com/attachments/1506081776190095450/1506081827020996629/Screenshot_2026-05-18_134725.png?ex=6a0cf781&is=6a0ba601&hm=5b34b2322d64a8cecaadc49806eab1c7357bf5ad0b4511637ccea8bedf18b01c&)" width="90%" />
+<img src="[images/quantummc+.png]" width="90%" />
 
 ## How do I get started?
 
